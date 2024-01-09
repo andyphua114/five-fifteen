@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "date": "2023-01-03",
+      "content": "Data processing",
+      "id": 1
+    },
+    {
+      "date": "2023-01-05",
+      "content": "Learn React",
+      "id": 2
+    }
+  ]
+}
